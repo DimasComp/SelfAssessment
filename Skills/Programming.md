@@ -8,27 +8,27 @@
   - scalar 🙋 explained
   - literal 🙋 explained
   - expression 🙋 explained
-  - heap 👂 heard
+  - heap 🎓 known
   - function 🙋 explained
-  - procedure 🖐️ used
+  - procedure 🙋 explained
   - method 🙋 explained
   - class 🙋 explained
-  - prototype 🖐️ used
-  - event 🖐️ used
+  - prototype 🙋 explained
+  - event 🙋 explained
   - type 🙋 explained
-  - primitive types 👂 heard
-  - reference types 🖐️ used
-  - flag 🖐️ used
-  - lexical scope 👂 heard
+  - primitive types 🎓 known
+  - reference types 🙋 explained
+  - flag 🙋 explained
+  - lexical scope 🎓 known
   - code block 🙋 explained
-  - conditions 🖐️ used
-  - loops 🖐️ used
-  - assignment 👂 heard
+  - conditions 🙋 explained
+  - loops 🙋 explained
+  - assignment 🎓 known
   - regular expression 🙋 explained
-  - interface 🖐️ used
-  - contract 👂 heard
+  - interface 🙋 explained
+  - contract 🎓 known
   - module 🙋 explained
-  - call stack 👂 heard
+  - call stack 🎓 known
 - Functions
   - signature 🙋 explained
   - argument 🙋 explained
@@ -38,16 +38,16 @@
   - side effects 🙋 explained
   - closure 🙋 explained
   - partial application 🙋 explained
-  - curry 👂 heard
-  - higher order 👂 heard
+  - curry 🎓 known
+  - higher order 🎓 known
   - recursion 🙋 explained
   - callback 🙋 explained
   - listener 🙋 explained
   - compose 🙋 explained
-  - pipe 👂 heard
-  - memoize 👂 heard
-  - wrapper 👂 heard
-  - functor 👂 heard
+  - pipe 🎓 known
+  - memoize 🎓 known
+  - wrapper 🎓 known
+  - functor 🎓 known
   - monad 👂 heard
   - monoid 👂 heard
   - generator 🙋 explained
@@ -68,20 +68,20 @@
   - unrolled list 👂 heard
   - circular list 👂 heard
   - queue 🙋 explained
-  - stack 👂 heard
-  - deque 👂 heard
-  - tree 👂 heard
+  - stack 🎓 known
+  - deque 🎓 known
+  - tree 🎓 known
   - graph 🙋 explained
   - iterator 🙋 explained
-  - mutable state 🎓 known
-  - immutable state 🎓 known
-  - serialization 🎓 known
+  - mutable state 🖐️ used
+  - immutable state 🖐️ used
+  - serialization 🖐️ used
   - string parsing 🙋 explained
 - Process & style
   - compiler 🙋 explained
-  - transpiler 👂 heard
-  - linter 🎓 known
-  - polyfill 👂 heard
+  - transpiler 🎓 known
+  - linter 🖐️ used
+  - polyfill 🎓 known
   - debugger 🙋 explained
   - garbage collection 🙋 explained
   - refactoring 🙋 explained
@@ -100,7 +100,7 @@
   - unreachable code 🙋 explained
   - duplicate code 🙋 explained
   - exception 🙋 explained
-  - return early 👂 heard
+  - return early 🎓 known
   - unittest 👂 heard
   - git 🙋 explained
   - github 🙋 explained

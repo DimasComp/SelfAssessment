@@ -5,27 +5,27 @@
   - this 🙋 explained
   - arrow function 🙋 explained
   - async function 🙋 explained
-  - call 🖐️ used
-  - bind 🎓 known
-  - apply 🎓 known
-  - instanceof 🎓 known
-  - ...spread 👂 heard
-  - ...rest 👂 heard
-  - typeof 🖐️ used
-  - destructuring 🎓 known
-  - generator 🎓 known
-  - iterator 🎓 known
-  - async generator 🎓 known
-  - async iterator 🎓 known
-  - chaining 👂 heard
-  - optional chaining 👂 heard
+  - call 🙋 explained
+  - bind 🖐️ used
+  - apply 🖐️ used
+  - instanceof 🖐️ used
+  - ...spread 🎓 known
+  - ...rest 🎓 known
+  - typeof 🙋 explained
+  - destructuring 🖐️ used
+  - generator 🖐️ used
+  - iterator 🖐️ used
+  - async generator 🖐️ used
+  - async iterator 🖐️ used
+  - chaining 🎓 known
+  - optional chaining 🎓 known
   - IIFE 👂 heard
   - global 🙋 explained
-  - globalThis 🎓 known
-  - window 🖐️ used
+  - globalThis 🖐️ used
+  - window 🙋 explained
   - getters and setters 🙋 explained
   - __proto__ 👂 heard
-  - prototype 🎓 known
+  - prototype 🖐️ used
   - equality operators 🙋 explained
   - logical operators 🙋 explained
   - bitwise operators 🙋 explained
@@ -33,13 +33,13 @@
   - void 🙋 explained
   - yield 🙋 explained
   - await 🙋 explained
-  - template literal 🎓 known
-  - strict mode 🖐️ used
+  - template literal 🖐️ used
+  - strict mode 🙋 explained
   - delete 🙋 explained
   - in 🙋 explained
   - super 🙋 explained
-  - Symbol 🎓 known
-  - Reflect 🎓 known
+  - Symbol 🖐️ used
+  - Reflect 🖐️ used
 - Statements
   - if 🙋 explained
   - while 🙋 explained
@@ -53,22 +53,22 @@
   - continue 🙋 explained
   - import 🙋 explained
   - export 🙋 explained
-  - label 👂 heard
+  - label 🎓 known
   - try..catch 🙋 explained
   - switch 🙋 explained
   - class 🙋 explained
-  - new Error 🎓 known
+  - new Error 🖐️ used
   - with 🙋 explained
 - Functions
-  - function declaration 👂 heard
-  - function expression 👂 heard
+  - function declaration 🎓 known
+  - function expression 🎓 known
   - return 🙋 explained
   - default parameters 🙋 explained
-  - functional object 🎓 known
+  - functional object 🖐️ used
 - Data structures
   - Array 🙋 explained
   - mixin 👂 heard
-  - extend 👂 heard
+  - extend 🎓 known
   - typed arrays 🙋 explained
   - Map 🙋 explained
   - Set 🙋 explained
@@ -83,7 +83,7 @@
   - BigInt 🙋 explained
 - Infrastructure
   - V8 👂 heard
-  - Node.js 🎓 known
-  - npm 🎓 known
-  - prettier 👂 heard
-  - MDN 🎓 known
+  - Node.js 🖐️ used
+  - npm 🖐️ used
+  - prettier 🎓 known
+  - MDN 🖐️ used
