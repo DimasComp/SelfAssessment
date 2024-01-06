@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
+  - scalar 🙋 explained
+  - literal 🙋 explained
+  - expression 🙋 explained
+  - heap 👂 heard
+  - function 🙋 explained
+  - procedure 🖐️ used
+  - method 🙋 explained
+  - class 🙋 explained
+  - prototype 🖐️ used
+  - event 🖐️ used
+  - type 🙋 explained
+  - primitive types 👂 heard
+  - reference types 🖐️ used
+  - flag 🖐️ used
+  - lexical scope 👂 heard
+  - code block 🙋 explained
+  - conditions 🖐️ used
+  - loops 🖐️ used
+  - assignment 👂 heard
+  - regular expression 🙋 explained
+  - interface 🖐️ used
+  - contract 👂 heard
+  - module 🙋 explained
+  - call stack 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature 🙋 explained
+  - argument 🙋 explained
+  - parameter 🙋 explained
+  - pure function 🙋 explained
+  - lambda expression 🙋 explained
+  - side effects 🙋 explained
+  - closure 🙋 explained
+  - partial application 🙋 explained
+  - curry 👂 heard
+  - higher order 👂 heard
+  - recursion 🙋 explained
+  - callback 🙋 explained
+  - listener 🙋 explained
+  - compose 🙋 explained
+  - pipe 👂 heard
+  - memoize 👂 heard
+  - wrapper 👂 heard
+  - functor 👂 heard
+  - monad 👂 heard
+  - monoid 👂 heard
+  - generator 🙋 explained
+  - coroutine 🙋 explained
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array 🙋 explained
+  - structure 🙋 explained
+  - record 🙋 explained
+  - enum 🙋 explained
+  - instance 🙋 explained
+  - object 🙋 explained
+  - class 🙋 explained
+  - collection 🙋 explained
+  - set 🙋 explained
+  - hash table 🙋 explained
+  - linked list 🙋 explained
+  - doubly list 🙋 explained
+  - unrolled list 👂 heard
+  - circular list 👂 heard
+  - queue 🙋 explained
+  - stack 👂 heard
+  - deque 👂 heard
+  - tree 👂 heard
+  - graph 🙋 explained
+  - iterator 🙋 explained
+  - mutable state 🎓 known
+  - immutable state 🎓 known
+  - serialization 🎓 known
+  - string parsing 🙋 explained
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler 🙋 explained
+  - transpiler 👂 heard
+  - linter 🎓 known
+  - polyfill 👂 heard
+  - debugger 🙋 explained
+  - garbage collection 🙋 explained
+  - refactoring 🙋 explained
+  - code review 🙋 explained
+  - antipatterns 🙋 explained
+  - paradigm 🙋 explained
+  - algorithm 🙋 explained
+  - magic numbers 🙋 explained
+  - hardcode 🙋 explained
+  - complexity 🙋 explained
+  - decomposition 🙋 explained
+  - spaghetti 🙋 explained
+  - silver bullet 🙋 explained
+  - not invented here 👂 heard
+  - dead code 🙋 explained
+  - unreachable code 🙋 explained
+  - duplicate code 🙋 explained
+  - exception 🙋 explained
+  - return early 👂 heard
+  - unittest 👂 heard
+  - git 🙋 explained
+  - github 🙋 explained
