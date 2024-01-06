@@ -1,95 +1,95 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 👂 heard
+  - Event loop 🎓 known
   - try..catch 🙋 explained
-  - Non-blocking 👂 heard
-  - Async I/O 🎓 known
-  - Thread pool 🎓 known
+  - Non-blocking 🎓 known
+  - Async I/O 🖐️ used
+  - Thread pool 🖐️ used
   - Pattern Reactor 👂 heard
-  - CAS operations 👂 heard
-  - epoll 👂 heard
-  - kqueue 👂 heard
+  - CAS operations 🎓 known
+  - epoll 🎓 known
+  - kqueue 🎓 known
   - Completion ports 👂 heard
-  - Event ports 👂 heard
+  - Event ports 🎓 known
   - libuv 👂 heard
   - Race conditions 👂 heard
-  - Dead locks 🎓 known
-  - Live locks 🎓 known
-  - Concurrent programming 👂 heard
-  - Parallel programming 🎓 known
+  - Dead locks 🖐️ used
+  - Live locks 🖐️ used
+  - Concurrent programming 🎓 known
+  - Parallel programming 🖐️ used
   - Actor Model 👂 heard
-  - Thread 🎓 known
-  - Process 🎓 known
+  - Thread 🖐️ used
+  - Process 🖐️ used
 - Async contracts
-  - Callbacks 🎓 known
+  - Callbacks 🖐️ used
   - Callback-last-error-first 👂 heard
-  - Thenable 👂 heard
-  - Promise 🎓 known
-  - Async/await 🖐️ used
+  - Thenable 🎓 known
+  - Promise 🖐️ used
+  - Async/await 🙋 explained
   - Future 👂 heard
-  - Deferred 👂 heard
-  - Sync generator 🎓 known
-  - Async Generator 🎓 known
-  - Async Iterator 🎓 known
-  - Event 🖐️ used
-  - Coroutine 🖐️ used
+  - Deferred 🎓 known
+  - Sync generator 🖐️ used
+  - Async Generator 🖐️ used
+  - Async Iterator 🖐️ used
+  - Event 🙋 explained
+  - Coroutine 🙋 explained
   - Goroutine 👂 heard
-  - Signal 🎓 known
-  - Stream 🎓 known
-  - Chain of responsibility 🎓 known
+  - Signal 🖐️ used
+  - Stream 🖐️ used
+  - Chain of responsibility 🖐️ used
   - Middleware 🙋 explained
-  - Locks 🎓 known
+  - Locks 🖐️ used
 - Async adapters and utils
-  - callbackify 👂 heard
-  - promisify 👂 heard
-  - asyncify👂 heard
-  - callbacks compose 👂 heard
-  - async compose 👂 heard
+  - callbackify 🎓 known
+  - promisify 🎓 known
+  - asyncify🎓 known
+  - callbacks compose 🎓 known
+  - async compose 🎓 known
 - Async abstractions interfaces
-  - EventEmitter 🎓 known
-  - Observable/Observer 🎓 known
+  - EventEmitter 🖐️ used
+  - Observable/Observer 🖐️ used
   - Readable 👂 heard
   - Writable 👂 heard
   - Transform 👂 heard
-  - Async Pool 🎓 known
-  - Async Queue 🎓 known
-  - Async Collector 🎓 known
+  - Async Pool 🖐️ used
+  - Async Queue 🖐️ used
+  - Async Collector 🖐️ used
   - Semaphore 👂 heard
   - Mutex 👂 heard
-  - Spin Lock 👂 heard
+  - Spin Lock 🎓 known
 - JavaScript & Node.js specific
-  - Timers 🎓 known
-  - setImmediate 👂 heard
-  - nextTick 🎓 known
-  - AbortController 👂 heard
-  - AbortSignal 👂 heard
+  - Timers 🖐️ used
+  - setImmediate 🎓 known
+  - nextTick 🖐️ used
+  - AbortController 🎓 known
+  - AbortSignal 🎓 known
   - Promise unhandled rejection 👂 heard
   - Promise double resolve 👂 heard
-  - child_process 🎓 known
-  - worker_threads 🎓 known
-  - Atomics 👂 heard
-  - High resolution clock 🎓 known
-  - Callback hell 👂 heard
-  - Promise hell 👂 heard
-  - ref() and unref() 👂 heard
-  - Error handling in async code 🖐️ used
-  - Better stack traces with return await 🎓 known
-  - JSON: streaming serialization 🎓 known
-  - promisify 👂 heard
-  - callbackify 👂 heard
-  - AsyncLocalStorage 👂 heard
-  - AsyncResource 👂 heard
+  - child_process 🖐️ used
+  - worker_threads 🖐️ used
+  - Atomics 🎓 known
+  - High resolution clock 🖐️ used
+  - Callback hell 🎓 known
+  - Promise hell 🎓 known
+  - ref() and unref() 🎓 known
+  - Error handling in async code 🙋 explained
+  - Better stack traces with return await 🖐️ used
+  - JSON: streaming serialization 🖐️ used
+  - promisify 🎓 known
+  - callbackify 🎓 known
+  - AsyncLocalStorage 🎓 known
+  - AsyncResource 🎓 known
 - Techniques
-  - async.js library 🖐️ used
+  - async.js library 🙋 explained
   - RxJS library 👂 heard
-  - Async composition 👂 heard
-  - Promise.all 🎓 known
+  - Async composition 🎓 known
+  - Promise.all 🖐️ used
   - Promise.allSettled 👂 heard
   - Promise.race 👂 heard
   - Promise.any 👂 heard
-  - Web Locks API 👂 heard
+  - Web Locks API 🎓 known
   - IPC 👂 heard
   - Channel API 👂 heard
   - Revealing Constructor 👂 heard
-  - Web Locks API 👂 heard
+  - Web Locks API 🎓 known
